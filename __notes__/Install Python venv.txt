@@ -1,0 +1,4 @@
+(1) set up venv
+python -m venv venv
+
+(2) edit activate.bat
